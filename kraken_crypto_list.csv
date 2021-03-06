@@ -1,0 +1,57 @@
+Symbol,Security
+AAVE,Aave
+ALGO,Algorand
+ANT,Aragon
+REP,Augur
+REPV2,Augur v2
+BAT,Basic Attention Token
+BAL,Balancer
+XBT,Bitcoin
+BCH,Bitcoin Cash
+ADA,Cardano
+LINK,Chainlink
+COMP,Compound
+ATOM,Cosmos
+CRV,Curve
+DAI,Dai*
+DASH,Dash
+MANA,Decentraland
+XDG,Dogecoin
+EWT,Energy Web Token
+EOS,EOS
+ETH,"Ethereum (""Ether"")"
+ETC,Ethereum Classic
+FIL,Filecoin
+FLOW,Flow
+GNO,Gnosis
+ICX,ICON
+KAVA,Kava
+KEEP,Keep Network
+KSM,Kusama
+KNC,Kyber Network
+LSK,Lisk
+LTC,Litecoin
+MLN,Melon
+XMR,Monero
+NANO,Nano
+OCEAN,Ocean
+OMG,OmiseGO
+OXT,Orchid
+PAXG,PAX Gold
+DOT,Polkadot
+QTUM,Qtum
+XRP,Ripple
+SC,Siacoin
+XLM,Stellar Lumens
+STORJ,Storj
+SNX,Synthetix
+TBTC,tBTC
+USDT,"Tether (Omni Layer, ERC20)*"
+XTZ,Tezos
+GRT,The Graph
+TRX,Tron
+UNI,Uniswap
+USDC,USD Coin*
+WAVES,WAVES
+YFI,Yearn Finance
+ZEC,Zcash
